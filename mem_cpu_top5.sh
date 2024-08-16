@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 输出文件
-output_file="top5_mem_CPU_processes.log"
+output_file="top5_mem_cpu_processes.log"
 
 # 创建或清空输出文件
 : > $output_file
